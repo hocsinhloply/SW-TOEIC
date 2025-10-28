@@ -8,7 +8,7 @@
 - [Practice](#s_practice)
     - [Ex 1: What kinds of books do you usually read?](#s_ex1)
     - [Ex 2: Is time management an important skill?](#s_ex2)
-    
+
 [II. Writing](#writing)
 
 [III. Các cấu trúc câu](#structure)
@@ -120,7 +120,6 @@ Feeling:
 
 
 ```
-
 
 # II. Writing
 
