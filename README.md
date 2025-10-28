@@ -35,10 +35,10 @@
     - Example: minh họa hoặc chứng minh cho lí do
 - F: Feeling
     - Thể hiện cảm nhận hay suy nghĩ
-    '''
+    ```
     I think [vấn đề] is [tính từ]
     I [động từ chỉ cảm xúc] + vấn đề
-    '''
+    ```
 
 
 # Writing
