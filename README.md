@@ -6,9 +6,9 @@
 
 # I. Speaking
 
-## 1. Lesson 1: Phương pháp phân tích đề bài
+## I.1. Lesson 1: Phương pháp phân tích đề bài
 
-- Dạng đề bài: 2 loại
+1. Dạng đề bài: 2 loại
     1. Dạng đề bài 1 yêu cầu
         - Loại 1: Câu hỏi
         
@@ -17,5 +17,7 @@
         - Loại 2: Câu mệnh lệnh
 
         Bắt đầu bằng một ĐT nguyên thể, thường bắt đầu bằng từ **Please** tăng tính lịch sự
+    
+    2. Dạng đề bài nhiều yêu cầu: từ 2 yêu cầu trở lên
 
 # Writing
