@@ -13,8 +13,6 @@
 
 [III. Các cấu trúc câu](#structure)
 
----
-
 # I. Speaking
 
 ## Lesson 1: Phương pháp phân tích đề bài
