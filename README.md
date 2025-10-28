@@ -13,6 +13,9 @@
 
 [III. Các cấu trúc câu](#structure)
 
+---
+
+<a id = "speaking"></a>
 # I. Speaking
 
 ## Lesson 1: Phương pháp phân tích đề bài
@@ -61,6 +64,7 @@
 ```
 ## Practice
 
+<a id = "s_ex1"></a>
 ### Ex 1: What kinds of books do you usually read?
 
 ```
@@ -103,6 +107,7 @@ I love adventure books.
 
 ```
 
+<a id = "s_ex2"></a>
 ### Ex 2: Is time management an important skill?
 
 ```
@@ -119,6 +124,7 @@ Feeling:
 
 ```
 
+<a id = "speaking"></a>
 # II. Writing
 
 ```
@@ -129,4 +135,5 @@ Example:
 Feeling:
 ```
 
+<a id = "structure"></a>
 # III. Các cấu trúc câu
