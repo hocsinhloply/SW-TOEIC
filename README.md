@@ -20,7 +20,7 @@
 
 ## Lesson 1: Phương pháp phân tích đề bài
 
-1. Dạng đề bài: 2 loại
+### Dạng đề bài: 2 loại
     - **Dạng đề bài 1 yêu cầu**
         - Loại 1: Câu hỏi
         
@@ -32,7 +32,7 @@
     
     - **Dạng đề bài nhiều yêu cầu**: từ 2 yêu cầu trở lên
 
-2. Phương pháp mở rộng câu trả lời: **AREF**
+### Phương pháp mở rộng câu trả lời: **AREF**
 - **A: Answer**
     - Sử dụng chính đề bài
     - Dùng cấu trúc và từ vựng khác
@@ -63,7 +63,7 @@
         - Nhu cầu
 ```
 
-3. Phương pháp ghi chú
+### Phương pháp ghi chú
 
 - Kỹ năng ghi chú là kỹ năng tóm gọn các thông tin quan trọng bằng cách
     - Không viết lại cả câu
@@ -83,6 +83,42 @@
     - Viết tắt từ
     - Ký hiệu hóa từ
 
+#### A. Phương pháp rút gọn câu
+
+- Function words (từ chức năng): 
+    - Từ quan trọng về mặt ngữ pháp, không mang nghĩa trong câu
+    - Giới từ, đại từ, mạo từ, trợ động từ...
+- Content words (từ nội dung):
+    - Từ quan trọng về mặt ngữ nghĩa
+    - Thường là danh từ, động từ & tính từ
+> Khi ghi chú chỉ cần ghi content words, dùng từ nguyên thể
+
+```
+Example: Can you estimate the amount of money you usually spend on your phone?
+- Quá trình tiếp nhận thông tin: amount money phone
+- Quá trình sản xuất thông tin: liên quan đến giá tiền => chỉ cần ghi giá tiền => Approximately $400
+
+Example: When does the store open?
+- Quá trình tiếp nhận thông tin: when store open
+- Quá trình sản xuất thông tin: liên quan đến thời gian => 8 PM
+```
+
+#### B. Phương pháp viết tắt từ
+- Chỉ viết một số chữ cái của từ
+
+```
+Example: What subjects are you into?
+- Quá trình tiếp nhận thông tin: what subject into | subject into
+- Quá trình sản xuất thông tin: 
+    - Languages => Lang
+    - Economics => Econ
+> Chỉ viết một số chữ cái đầu
+```
+
+- Một số từ viết tắt:
+![](images/i1.png)
+
+####
 
 ## Practice
 
