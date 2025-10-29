@@ -62,6 +62,28 @@
         - Sở thích
         - Nhu cầu
 ```
+
+3. Phương pháp ghi chú
+
+- Kỹ năng ghi chú là kỹ năng tóm gọn các thông tin quan trọng bằng cách
+    - Không viết lại cả câu
+    - Ghi chú các từ khóa
+    - Sử dụng viết tắt và ký hiệu
+> Rút ngắn thời gian ghi chép
+> Được sử dụng trong 2 quá trình:
+- Quá trình tiếp nhận thông tin:
+    - Nghe
+    - Đọc
+- Quá trình sản xuất thông tin:
+    - Nói
+    - Viết
+
+- 3 phương pháp ghi chú:
+    - Rút gọn câu
+    - Viết tắt từ
+    - Ký hiệu hóa từ
+
+
 ## Practice
 
 <a id = "s_ex1"></a>
@@ -120,8 +142,41 @@ Reason:
 Elaboration:
 Example:
 Feeling:
+```
 
+```
+- Sử dụng lại đề bài để tạo yếu tố Answer.
+- Sử dụng nhóm chủ đề "Các khía cạnh đời sống" để nghĩ yếu tố Reason.
+- Dựa vào Reason và Answer để nghĩ yếu tố Elaboration hoặc Example.
+- Lấy ví dụ từ bản thân để nghĩ yếu tố Example
+- Sử dụng một trong hai cấu trúc đã học để tạo yếu tố Feeling.
+```
 
+<a id = "s_ex3"></a>
+### Ex 3: Do you have a plan to move out in the near future?
+
+```
+Answer: No
+Reason: Close my company, save money
+Elaboration: Save time
+Example: Only 5 minutes commute my house and company
+Feeling: 
+```
+
+```
+Answer: No, I don't have plans to move out in the near future
+Reason: 
+- Tài chính: My current place is cheap.
+
+Elaboration: 
+- Tài chính: It helps me save money.
+
+Example:
+- Tài chính: It only costs me $200 a month.
+Feeling: I think it is economical
+
+No, I don't have plans to move out in the near future. My current place is cheap.
+It helps me save money. It only costs me $200 a month. I think it is economical.
 ```
 
 <a id = "speaking"></a>
@@ -137,3 +192,44 @@ Feeling:
 
 <a id = "structure"></a>
 # III. Các cấu trúc câu
+
+- Thể hiện cảm nhận hay suy nghĩ
+```
+    I think [vấn đề] is [tính từ]
+    I [động từ chỉ cảm xúc] + vấn đề
+```
+
+# IV. ChatGPT Prompt
+
+```
+Question: What kind of housing do you live in?
+Answer: Apartment
+Reason: Close to my office
+Elaboration: Save time, convenient
+Example: Just 10 minutes walk to work
+Feeling: Comfortable and satisfied
+✅ Tôi muốn bạn:
+Sửa lỗi
+Viết lại 3 bản khác nhau
+Dịch nghĩa các từ quan trọng
+Liệt kê cấu trúc câu
+Dịch toàn đoạn sang tiếng Việt
+🎯 Mục tiêu: Speaking-style
+```
+
+```
+🪶 📍Daily Writing Practice Template
+🧩 Question:
+✍️ My draft:
+Answer: …
+Reason: …
+Elaboration: …
+Example: …
+Feeling: …
+🎯 Focus today:
+(Chọn hoặc ghi nhanh) → Grammar / Vocabulary / Paraphrase / IELTS tone / Natural flow
+💬 Style:
+(Speaking / Writing / Mixed)
+💡 Extra note (optional):
+👉 ……………………………………………………………
+```
