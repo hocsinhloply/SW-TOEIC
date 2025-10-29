@@ -69,29 +69,29 @@
     - Không viết lại cả câu
     - Ghi chú các từ khóa
     - Sử dụng viết tắt và ký hiệu
-> Rút ngắn thời gian ghi chép
-> Được sử dụng trong 2 quá trình:
-- Quá trình tiếp nhận thông tin:
+=> Rút ngắn thời gian ghi chép
+=> Được sử dụng trong 2 quá trình:
+- **Quá trình tiếp nhận thông tin**:
     - Nghe
     - Đọc
-- Quá trình sản xuất thông tin:
+- **Quá trình sản xuất thông tin**:
     - Nói
     - Viết
 
 - 3 phương pháp ghi chú:
-    - Rút gọn câu
-    - Viết tắt từ
-    - Ký hiệu hóa từ
+    - **Rút gọn câu**
+    - **Viết tắt từ**
+    - **Ký hiệu hóa từ**
 
 #### A. Phương pháp rút gọn câu
 
-- Function words (từ chức năng): 
+- **Function words** (từ chức năng): 
     - Từ quan trọng về mặt ngữ pháp, không mang nghĩa trong câu
     - Giới từ, đại từ, mạo từ, trợ động từ...
-- Content words (từ nội dung):
+- **Content words** (từ nội dung):
     - Từ quan trọng về mặt ngữ nghĩa
     - Thường là danh từ, động từ & tính từ
-> Khi ghi chú chỉ cần ghi content words, dùng từ nguyên thể
+=> Khi ghi chú chỉ cần ghi content words, dùng từ nguyên thể
 
 ```
 Example: Can you estimate the amount of money you usually spend on your phone?
