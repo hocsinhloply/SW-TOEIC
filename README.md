@@ -2,6 +2,9 @@
 
 [I. Speaking](#speaking)
 - [Lesson 1](#s_lesson1)
+    - [Dạng đề bài](#s_lesson1_1)
+    - [Phương pháp mở rộng câu](#s_lesson1_2)
+    - [Phương pháp ghi chú](#s_lesson1_3)
 - [Lesson 2](#s_lesson2)
 - [Lesson 3](#s_lesson3)
 - [Lesson 4](#s_lesson4)
@@ -12,6 +15,8 @@
 [II. Writing](#writing)
 
 [III. Các cấu trúc câu](#structure)
+
+[IV. ChatGPT Prompt](#gpt)
 
 ---
 
@@ -69,7 +74,9 @@
     - Không viết lại cả câu
     - Ghi chú các từ khóa
     - Sử dụng viết tắt và ký hiệu
+
 => Rút ngắn thời gian ghi chép
+
 => Được sử dụng trong 2 quá trình:
 - **Quá trình tiếp nhận thông tin**:
     - Nghe
@@ -91,6 +98,7 @@
 - **Content words** (từ nội dung):
     - Từ quan trọng về mặt ngữ nghĩa
     - Thường là danh từ, động từ & tính từ
+
 => Khi ghi chú chỉ cần ghi content words, dùng từ nguyên thể
 
 ```
@@ -112,14 +120,24 @@ Example: What subjects are you into?
 - Quá trình sản xuất thông tin: 
     - Languages => Lang
     - Economics => Econ
-> Chỉ viết một số chữ cái đầu
+=> Chỉ viết một số chữ cái đầu
 ```
 
 - Một số từ viết tắt:
 ![](images/i1.png)
 
-####
+#### C. Phương pháp ký hiệu hóa từ
+- Thể hiện các từ qua các ký hiệu
 
+- Một ký hiệu:
+![](images/i2.png)
+
+- Example 1: Why are social skills important?
+![](images/i3.png)
+- Example 2: What are the important things you would consider when moving to a new place?
+![](images/i4.png)
+
+<a id = "s_practice"></a>
 ## Practice
 
 <a id = "s_ex1"></a>
@@ -235,6 +253,7 @@ Feeling:
     I [động từ chỉ cảm xúc] + vấn đề
 ```
 
+<a id = "gpt"></a>
 # IV. ChatGPT Prompt
 
 ```
