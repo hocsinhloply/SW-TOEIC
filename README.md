@@ -134,6 +134,7 @@ Example: What subjects are you into?
 
 - Example 1: Why are social skills important?
 ![](images/i3.png)
+
 - Example 2: What are the important things you would consider when moving to a new place?
 ![](images/i4.png)
 
